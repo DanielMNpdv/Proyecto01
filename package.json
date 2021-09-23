@@ -1,0 +1,23 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "//Para subirlo a GitHub:\r git init \r git add .\r git commit -m \"subida doc\"\r git remote add origin https://github.com/DanielMNpdv/\r git push -u origin main",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielMNpdv/prueba.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielMNpdv/prueba/issues"
+  },
+  "homepage": "https://github.com/DanielMNpdv/prueba#readme"
+}
