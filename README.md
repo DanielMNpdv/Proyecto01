@@ -3,7 +3,7 @@ git init
 git add .
 git commit -m "primera subida"
 git remote add origin https://github.com/DanielMNpdv/
-git push -u origin master
+git push -u origin main
 
 //Otros Comandos git
 git clone (para descargar el repositorio desde la nube)
