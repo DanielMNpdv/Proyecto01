@@ -1,7 +1,7 @@
 //Para subirlo a GitHub:
 git init 
 git add .
-git commit -m "primera subida"
+git commit -m "subida doc"
 git remote add origin https://github.com/DanielMNpdv/
 git push -u origin main
 
