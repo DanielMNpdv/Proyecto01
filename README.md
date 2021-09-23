@@ -1,7 +1,7 @@
 //Para subirlo a GitHub:
 git init 
 git add .
-git commit -m "subida doc"
+git commit -m "subida hola mundo"
 git remote add origin https://github.com/DanielMNpdv/
 git push -u origin main
 
@@ -50,14 +50,3 @@ node build/index
 npm install
 npm run build
 npm start
-
-//Creamos la carpeta view y metemos los archivos que hayamos creado.
-
-//Repositorio profe stackblitz
-https://stackblitz.com/edit/heroesapi008
-
-//Repositorio profe Github
-https://github.com/sgbdpdv2021?tab=repositories
-
-//Para conectar desde mongo compass
-mongodb+srv://usuario1:usuario1@cluster0.49asp.mongodb.net/test
