@@ -14,7 +14,7 @@
 - git branch
 - git merge <branch-name>
 
-//Comandos a introducir para empezar a trabajar (-g es global y se hace 1 sola vez):
+###### Comandos a introducir para empezar a trabajar (-g es global y se hace 1 sola vez):
 
 - npm init --yes
 - npm install -g typescript
@@ -28,7 +28,7 @@
 '"target": "es6",', '"outDir": "./build",' y en la linea 68 ponemos lo siguiente: 
 "exclude": [ "node_modules" ]
 
-//En el .gitignore ponemos: 
+###### En el .gitignore ponemos: 
 - build
 - node_modules
 
@@ -40,13 +40,13 @@ en el readme explicaras tu proyecto
 //Primero debes crear los scripts .ts y luego los tienes que compilar con (opcion --watch para compilar en tiempo real):
 tsc ./index.ts --out ./build/index.js --watch
 
-//Para ejecutar lo que hemos compilado usamos: 
+###### Para ejecutar lo que hemos compilado usamos: 
 - node build
 - npm run build
 -- o -- 
 - node build/index
 
-//Para ejecutar e instalar un trabajo de alguien
+###### Para ejecutar e instalar un trabajo de alguien
 - npm install
 - npm run build
 - npm start
