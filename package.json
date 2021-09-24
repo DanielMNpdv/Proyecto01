@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/DanielMNpdv/prueba/issues"
   },
-  "homepage": "https://github.com/DanielMNpdv/prueba#readme"
+  "homepage": "https://github.com/DanielMNpdv/prueba#readme",
+  "dependencies": {
+    "@types/mongoose": "^5.11.97",
+    "mongoose": "^6.0.7"
+  }
 }
