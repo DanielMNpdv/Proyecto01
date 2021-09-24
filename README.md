@@ -1,6 +1,6 @@
 ###### Para subirlo a GitHub:
-git init 
-git add .
+- git init 
+- git add .
 git commit -m "subida hola mundo"
 git remote add origin https://github.com/DanielMNpdv/
 git push -u origin main
