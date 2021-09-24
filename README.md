@@ -1,11 +1,11 @@
-//Para subirlo a GitHub:
+###### Para subirlo a GitHub:
 git init 
 git add .
 git commit -m "subida hola mundo"
 git remote add origin https://github.com/DanielMNpdv/
 git push -u origin main
 
-//Otros Comandos git
+###### Otros Comandos git
 git clone (para descargar el repositorio desde la nube)
 git pull (fusiona todos los cambios que se han hecho en el repositorio remoto con el directorio de trabajo local)
 git checkout ()
